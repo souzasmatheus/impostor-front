@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import Axios from 'axios';
-import './styles.scss';
 import Typography from '@material-ui/core/Typography';
 import TextField from '@material-ui/core/TextField';
 import Button from '@material-ui/core/Button';
@@ -44,7 +43,6 @@ function Login({ setAuthToken }) {
         type="password"
         style={{ float: 'right' }}
         fullWidth
-        id="outlined-basic"
         label="Senha"
         variant="outlined"
         onChange={e => setPassword(e.target.value)}
