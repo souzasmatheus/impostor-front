@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import './App.scss';
 import Login from './components/Login';
+import Home from './components/Home';
 import Container from '@material-ui/core/Container';
 
 function App() {
@@ -8,8 +9,8 @@ function App() {
 
   if (authToken) {
     return (
-      <Container maxWidth="md">
-        <h1>HOME</h1>
+      <Container>
+        <Home authToken={authToken} />
       </Container>
     );
   } else {
