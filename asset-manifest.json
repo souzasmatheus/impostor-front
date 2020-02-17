@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/impostor-front/static/css/main.0efde187.chunk.css",
+    "main.js": "/impostor-front/static/js/main.f5d3e641.chunk.js",
+    "main.js.map": "/impostor-front/static/js/main.f5d3e641.chunk.js.map",
+    "runtime-main.js": "/impostor-front/static/js/runtime-main.4c2414fb.js",
+    "runtime-main.js.map": "/impostor-front/static/js/runtime-main.4c2414fb.js.map",
+    "static/js/2.eb8c2586.chunk.js": "/impostor-front/static/js/2.eb8c2586.chunk.js",
+    "static/js/2.eb8c2586.chunk.js.map": "/impostor-front/static/js/2.eb8c2586.chunk.js.map",
+    "index.html": "/impostor-front/index.html",
+    "precache-manifest.5f52bd336dffa36d23ad877ccf50ecdb.js": "/impostor-front/precache-manifest.5f52bd336dffa36d23ad877ccf50ecdb.js",
+    "service-worker.js": "/impostor-front/service-worker.js",
+    "static/css/main.0efde187.chunk.css.map": "/impostor-front/static/css/main.0efde187.chunk.css.map",
+    "static/js/2.eb8c2586.chunk.js.LICENSE.txt": "/impostor-front/static/js/2.eb8c2586.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c2414fb.js",
+    "static/js/2.eb8c2586.chunk.js",
+    "static/css/main.0efde187.chunk.css",
+    "static/js/main.f5d3e641.chunk.js"
+  ]
+}
