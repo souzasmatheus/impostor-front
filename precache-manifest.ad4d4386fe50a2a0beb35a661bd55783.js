@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "40bbfd8e8b0d43ebf8559e203d98aa55",
+    "revision": "47dc2030619a8cdf5c136c54d5d83392",
     "url": "/impostor-front/index.html"
   },
   {
-    "revision": "76a0a1d8a3b610dcc53e",
+    "revision": "d98f38eed8bdd8713a0d",
     "url": "/impostor-front/static/css/main.0efde187.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/impostor-front/static/js/2.eb8c2586.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "76a0a1d8a3b610dcc53e",
-    "url": "/impostor-front/static/js/main.f5d3e641.chunk.js"
+    "revision": "d98f38eed8bdd8713a0d",
+    "url": "/impostor-front/static/js/main.9535b2de.chunk.js"
   },
   {
     "revision": "027d78f57f749b349efb",
